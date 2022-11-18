@@ -1,52 +1,19 @@
-# Tab Switcher 标签切换器
+# Flash Switcher 闪电切换器
 
-日常工作中，经常需要打开多个窗口、数十个网址同时工作，此时很难快速定位和切换目标标签，需要不断的尝试点击、查看，这是一项冗余、重复、大量的工作。
+Flash Switcher 是一个专注于提高浏览器操作效率、体验的工具，聚焦最常用的多选项卡 Tab 切换、千级甚至万级书签检索、以及海量的搜索历史，践行"现在有用的，将来大概率有用的(第二大脑🧠)"理念，实现任意数量 Tab、书签、历史的常数级、沉浸式操作，提升效率，节省海量的毛细时间。
 
-Tab Switcher 借鉴系统级的 Dock 应用程序切换机制，利用 Chrome Extension 机制，实现极速、高效、智能的标签预览和切换，可以节省海量无意中损耗的时间，从而专注于更富创作力的工作。
+- [Chrome 商店](https://chrome.google.com/webstore/detail/flash-switcher/klokphhomfboclhpijjcgbpdjoccaagc?hl=zh-CN&authuser=0)
+- [详细设计和使用文档](https://juejin.cn/column/7165324589038305294)
 
-### 功能
+![](./imgs/switcher-bookmarks-cost.png)
 
-#### 多窗口、标签统一展示面板
+### 概览功能
 
-无需逐个窗口、标签点击、寻找
-
-![](./imgs/switcher-board.png)
-
-#### 快速操作（预览等）
-
-无需切换到目标窗口、标签即可快速预览、跳转（点击标题或图标）、关闭
-
-![](./imgs/switcher-preview.png)
-
-#### 关键字快速匹配
-
-支持多关键字匹配，快速定位目标或定制跨窗口的场景化工作区
-
-![](./imgs/switcher-search.png)
-
-#### 性能 & 隐私
-
-优化后的压缩算法和策略，在保证功能的前提下尽可能的降低内存等硬件资源。且无任何网络操作，不会采集和上传任何数据。
-
-### 安装
-
-#### chrome 应用商店安装（进行中）
-
-#### 开发模式安装包
-
-- 下载并解压 `tab-switcher-v0.5.0.zip` 后，复制到软件安装目录
-- 打开 chrome 开发者模式
-
-![](./imgs/chrome-devmode.png)
-
-- 加载插件
-
-![](./imgs/chrome-load.png)
-
-![](./imgs/chrome-done.png)
-
-- 快捷键 `Alt + p`
-
-![](./imgs/chrome-ok.png)
+#### 可视化多 Tab 切换
 
 
+![](./imgs/fcaee25b4b4305c5a58fb1e8a7428b9c.png)
+
+#### 极致的书签管理
+
+![](./imgs/v2-f1289c98c5dd5543758292147be88184_1440w.jpg)
