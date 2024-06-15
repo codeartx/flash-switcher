@@ -2,11 +2,12 @@
 
 
 - [官网](http://kjeek.com/)
-- [详细设计和使用文档](https://juejin.cn/column/7165324589038305294)
+- [使用教程](https://kjeek.com/2024/06/14/course/)
 
 ![](./imgs/switcher-bookmarks-cost.png)
 
 ![](./imgs/Flash-Copilot.png)
+![](./imgs/过目不忘.png)
 
 
 ![](./imgs/书签管理.png)
